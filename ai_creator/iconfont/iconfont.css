@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('iconfont.woff2?t=1706900000000') format('woff2'),
+       url('iconfont.woff?t=1706900000000') format('woff'),
+       url('iconfont.ttf?t=1706900000000') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-file-text:before {
+  content: "\e7b5";
+}
+
+.icon-folder:before {
+  content: "\e7b6";
+}
+
+.icon-save:before {
+  content: "\e7b7";
+}
+
+.icon-copy:before {
+  content: "\e7b8";
+}
+
+.icon-edit:before {
+  content: "\e7b9";
+}
+
+.icon-delete:before {
+  content: "\e7ba";
+}
+
+.icon-plus:before {
+  content: "\e7bb";
+}
+
+.icon-menu:before {
+  content: "\e7bc";
+}
+
+.icon-check:before {
+  content: "\e7bd";
+}
+
+.icon-close:before {
+  content: "\e7be";
+}
+
+.icon-heart:before {
+  content: "\e7bf";
+}
+
+.icon-smile:before {
+  content: "\e7c0";
+}
+
+.icon-team:before {
+  content: "\e7c1";
+}
+
+.icon-calendar:before {
+  content: "\e7c2";
+}
+
+.icon-briefcase:before {
+  content: "\e7c3";
+}
